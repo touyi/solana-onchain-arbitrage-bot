@@ -28,6 +28,7 @@ solana onchain arbitrage bot, supports intelligent routing and calculates optima
 
 > **使用本套利机器人对于成功套利的交易，收取利润的10%作为手续费，如果套利失败，或者无利润，本合约不收取任何手续费。**
 > 例如套利 输入0.5 sol，输出0.6 sol，利润就是0.1sol，手续费为0.1 * 10% = 0.01 sol
+> 合约端：https://github.com/touyi/solana-onchain-arbitrage-bot-contract
 
 # 🚀快速开始
 
@@ -324,7 +325,6 @@ Token_Y是`So11111111111111111111111111111111111111112`
 * Kamino
 * 高热币监控
 
-# 📚合约代码地址 https://github.com/touyi/solana-onchain-arbitrage-bot-contract
 
 # 📜代码分析
 
