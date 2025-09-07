@@ -1,6 +1,5 @@
 [English](https://github.com/touyi/solana-onchain-arbitrage-bot/blob/main/assets/en_readme.md)
 
-# 🌟star 破 388 开源套利合约
 # solana-onchain-arbitrage-bot
 
 支持智能路由，计算最优套利路线
@@ -325,9 +324,7 @@ Token_Y是`So11111111111111111111111111111111111111112`
 * Kamino
 * 高热币监控
 
-# 📚交流群
-疑问或bug反馈请加交流群
-https://t.me/+t3Gexbnw0rs5NWQ1
+# 📚合约代码地址 https://github.com/touyi/solana-onchain-arbitrage-bot-contract
 
 # 📜代码分析
 
