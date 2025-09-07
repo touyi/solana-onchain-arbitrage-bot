@@ -1,4 +1,4 @@
-# 🌟 Star Break 388 Open Source Arbitrage Contract
+
 # Solana On-Chain Arbitrage Bot
 
 Supports intelligent routing and calculates optimal arbitrage routes. This is a Solana on-chain arbitrage bot that supports intelligent routing and calculates optimal arbitrage routes.
